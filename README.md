@@ -1,6 +1,6 @@
 Tiktok warmup automation service available.
 DM me if need. 
-Price: 100€/m
+Price: 100€/m - self hosted in your own machine
 
 Features:
 - For you & Search videos modes.
