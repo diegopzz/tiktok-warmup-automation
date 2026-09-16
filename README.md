@@ -1,14 +1,14 @@
 Tiktok warmup automation service available.
 DM me if need. 
-Price: 100€/m - self hosted in your own machine
+
 
 Features:
 - For you & Search videos modes.
 - Undetected by tiktok.
 - Proxy support.
 - ios & android supported, all devices supported.
-- Tested & working in big scale.
-
+- Tested & working in big scale
+- self hosted in your own machine
 
 e-mail:
 diego@bytewall.io
