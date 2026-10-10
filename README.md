@@ -12,7 +12,8 @@ Features:
 <img width="440" height="546" alt="image" src="https://github.com/user-attachments/assets/238f955c-fd26-4e85-8e81-0ede4ef44dfc" />
 <img width="400" height="415" alt="image" src="https://github.com/user-attachments/assets/97f09bd2-a220-4a22-bb2b-d88e4fbd82ff" />
 
-
+discord:
+https://discord.gg/KX56hMjXAj
 
 e-mail:
 diego@bytewall.io
