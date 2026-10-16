@@ -1,4 +1,4 @@
-name: Bump README
+name: read
 
 on:
   schedule:
